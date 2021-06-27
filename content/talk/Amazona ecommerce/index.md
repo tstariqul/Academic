@@ -19,19 +19,19 @@ abstract: |2-
   Deployment: Heroku
 summary: ''
 tags:
-- CNN
-- Transfer Learning
-- AlexNet
-- VGG16
-- Mass classification
+- Web Development
+- MERN Stack
+- ReactJs
+- NodeJs
+- Amazona ecommerce
 featured: true
 links:
 - name: Slides
-  url: https://drive.google.com/open?id=16j2Fu-pLfawkY9cKF7Q8T9ayLVQXJHJl
-url_pdf: https://github.com/fitushar/Deep-Learning-for-java--Mass-Classification-using-Transfer-learning/blob/master/Mass%20Detection%20in%20Breast%20Using%20Transfer%20Learning%20for-Report.pdf
+  url: 
+url_pdf: 
 url_code: https://github.com/tstariqul/Amazona-ecommerce
 image:
-  caption: Mass Classification
+  caption: Amazona ecommerce
   focal_point: ''
   preview_only: false
 projects: []
